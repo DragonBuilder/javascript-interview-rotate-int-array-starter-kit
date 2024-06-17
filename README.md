@@ -1,6 +1,6 @@
 # Introduction
 
-This is a skeleton project structure for problems that expects an integer array as input which will help you start solving the problem right away.
+This is a skeleton project structure for the rotate the integer array which will help you start solving the problem right away.
 
 ## Tools available to you.
 - Node.js
